@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gravertov.site</loc>
-    <lastmod>2026-11-23</lastmod>
-    <priority>1.0</priority>
+    <loc>https://gravertov.site/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gravertov.site/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://gravertov.site/en/" />
+  </url>
+  <url>
+    <loc>https://gravertov.site/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://gravertov.site/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://gravertov.site/en/" />
   </url>
 </urlset>
